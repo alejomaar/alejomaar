@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Machine Learning Developer.
+#### I'm a ML & Software Engineer.
 
 - ⚙️ I use daily: `jupyter`, `python`, `sql`, `excel`,`html\javascript\css`,`react`.
 - 🌍 I'm mostly active within the **Machine learning community**
